@@ -1,4 +1,4 @@
-University Management System
+#University Management System
 
 A University Management System developed using Python's Tkinter library. This system provides a user-friendly interface for managing student and faculty information within a university.
 
